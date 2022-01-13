@@ -1,0 +1,24 @@
+{
+  "name": "jest-hunt",
+  "version": "1.0.0",
+  "description": "Combines Jest and git bisect for identifying which commit introduced a bug. Created for training purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jberndsen/jest-hunt.git"
+  },
+  "keywords": [
+    "Jest",
+    "Git",
+    "Bisect"
+  ],
+  "author": "Jeroen Berndsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jberndsen/jest-hunt/issues"
+  },
+  "homepage": "https://github.com/jberndsen/jest-hunt#readme"
+}
